@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AmitPatel
-- 👀 I’m interested in Data Analyst
+- 👀 I want to be like a Business Analyst
 - 🌱 I’m currently learning SQL, T-SQL, Power Bi 
 - 📫 You can reach me on my github account if any information do you want to share Or If you want any information from me as well. :)
 
