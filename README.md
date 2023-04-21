@@ -34,7 +34,7 @@ I am excited about the opportunity to work with a team of experienced profession
 - 💬 Ask me about **anything, I'm happy to help.**
 
 - 📫 How to reach me: <br>
-Email: **amitpatel883431@gmail.com** <br>
+Email: **amitpatel.apnitw@gmail.com** <br>
 Linkedin Id: **https://www.linkedin.com/in/amit-patel4444//**
 
 
