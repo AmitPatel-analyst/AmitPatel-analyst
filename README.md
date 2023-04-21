@@ -1,4 +1,5 @@
-![logo](https://github.com/AmitPatel-analyst/AmitPatel-analyst/blob/main/LinkedlnCoverPage.png)
+![LinkedlnCoverPage-New](https://user-images.githubusercontent.com/120770473/233538096-43adbd74-762c-43b3-81e1-aeb7a97b185d.png)
+
 
 
 ### 🤗Welcome to my Github Profile
