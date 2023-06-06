@@ -44,9 +44,10 @@ Linkedin Id: **https://www.linkedin.com/in/amit-patel4444//**
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitpatel-analyst&show_icons=true&locale=en" alt="amitpatel-analyst" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitpatel-analyst&" alt="amitpatel-analyst" /></p>
+
+<p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpatel-analyst&" alt="amitpatel-analyst" /></p>
 
 <!---
 AmitPatel-analyst/AmitPatel-analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
