@@ -38,6 +38,14 @@ I am excited about the opportunity to work with a team of experienced profession
 Email: **amitpatel.apnitw@gmail.com** <br>
 Linkedin Id: **https://www.linkedin.com/in/amit-patel4444//**
 
+***
+
+# SQL CASE STUDY
+| Project Link | Area of Analysis | Project Description | Features |
+|---|---|---|---|
+| [Credit Card](https://github.com/AmitPatel-analyst/SQL-Case-Study/tree/main/Credit%20card%20spending%20habits%20in%20India) | Data analysis | I analyse customer's spending behavior and interests to help clients understand their customers.| Data cleaning, Advanced aggregations, CASE WHEN statements, Window Functions, Joins, Date time functions,CTEs |
+| 🏦 [The Tiny Shop](https://github.com/AmitPatel-analyst/SQL-Case-Study/tree/main/Sql_case_studies(Data%20In%20Motion%2C%20LLC)/01Sql_Challenge(The%20Tiny%20Shop)) | Data analysis | Using the tiny shop order data, I calculate metrics important to the organization, and analyze data for order rate, spending and sales pattern and product popularity| Aggregations, CASE WHEN statements, Window Functions, Joins, Date time functions,CTEs|
+
 
 <h3 align="center">"Information is the oil of the 21st century, and analytics is the combustion engine"</h3>
 
