@@ -30,7 +30,7 @@ I am excited about the opportunity to work with a team of experienced profession
 
 - 🔭 I’m currently working on my **Portfolio Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmitPatel-analyst/PortfolioProjects](https://github.com/AmitPatel-analyst/PortfolioProjects)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **anything, I'm happy to help.**
 
