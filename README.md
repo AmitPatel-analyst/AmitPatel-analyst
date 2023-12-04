@@ -36,7 +36,7 @@ I am excited about the opportunity to work with a team of experienced profession
 
 - 📫 How to reach me: <br>
 Email: **amitpatel.apnitw@gmail.com** <br>
-Linkedin Id: **https://www.linkedin.com/in/amit-patel4444//**
+Linkedin Id: **https://www.linkedin.com/in/amit-patel999/**
 
 ***
 
