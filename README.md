@@ -26,7 +26,7 @@ I am excited about the opportunity to work with a team of experienced profession
 
 
 # 💫 About Me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpatel-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="amitpatel-analyst" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpatel-analyst&label=PROFILE+VIEWS&color=238823&style=for-the-badge" alt="amitpatel-analyst" /> </p>
 
 - 🔭 I’m currently working on my **Portfolio Projects**
 
