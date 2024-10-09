@@ -3,10 +3,10 @@
 
 
 ### 🤗Welcome to my Github Profile
-- 👋 Hi, I am Amit Patel
-- 👀 I want to become a Data Analyst
+- 👋 Hi, I am Amit Patel, I am a Data analyst, with a background in Engineering.
+- 👀 I am interested in learning new skills.
 - 🌱 I am proficient in SQL, Advanced Excel and data visualization tools like Power BI. 
-- 📫 You can reach me on my github account if any information do you want to share Or If you want any information from me as well. :)
+- 📫 You can reach me on my GitHub account if you have any information you want to share Or If you want any information from me as well. :)
 
 Over the past few months, I have been actively learning about data analysis through online courses and projects, and I am constantly impressed by the power of data to drive change and improve decision making. I believe that my skills and knowledge, combined with my passion for this field, make me well-suited to contribute as a Data Analyst.
 I am excited about the opportunity to work with a team of experienced professionals and continue to grow my skills and knowledge as a Data Analyst. I am confident that I have what it takes to succeed in this role, and I am looking forward to contributing my skills and knowledge to help organizations achieve their goals.
